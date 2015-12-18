@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name xtal)(type Legacy)(uri /home/pparent/calculator/proto2.1/xtal24mhz.mod)(options "")(descr ""))
+  (lib (name xtal2)(type Legacy)(uri /home/pparent/calculator/proto2.1/xtal32768.mod)(options "")(descr ""))
+  (lib (name opendous)(type Legacy)(uri /home/pparent/calculator/proto2.1/lib/modules/opendous.mod)(options "")(descr ""))
+  (lib (name fpc10)(type Legacy)(uri /home/pparent/calculator/proto2.1/FPC10.mod)(options "")(descr ""))
+  (lib (name fpc37)(type Legacy)(uri /home/pparent/calculator/proto2.1/FPC37.mod)(options "")(descr ""))
+  (lib (name fpc22)(type Legacy)(uri /home/pparent/calculator/proto2.1/FPC22.mod)(options "")(descr ""))
+  (lib (name microsd)(type Legacy)(uri /home/pparent/calculator/proto2.1/Memory_Card_microsd_alps.mod)(options "")(descr ""))
+  (lib (name Inductor2)(type Legacy)(uri /home/pparent/calculator/proto2.1/inductor_bourns.mod)(options "")(descr ""))
+)

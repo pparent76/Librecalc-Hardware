@@ -1,0 +1,159 @@
+PCBNEW-LibModule-V1  jeu. 22 janv. 2015 23:32:37 CET
+# encoding utf-8
+Units mm
+$INDEX
+Memory_card_microsd_alps
+$EndINDEX
+$MODULE Memory_card_microsd_alps
+Po 0 0 0 15 54C17A7C 00000000 ~~
+Li Memory_card_microsd_alps
+Sc 0
+AR 
+Op 0 0 0
+T0 -1.1 2.8 1 1 0 0.15 N V 21 N "microsd"
+T1 0 0 1 1 0 0.15 N V 21 N "VAL**"
+DS 0.2 2.3 0.9 2.3 0.15 21
+DS 0.9 2.3 0.9 0.4 0.15 21
+DS 0.9 0.4 -1.3 0.4 0.15 21
+DS -1.3 0.4 -1.3 1.2 0.15 21
+DS -1.3 1.2 -2.5 1.2 0.15 21
+DS -2.5 1.2 -2.5 2.3 0.15 21
+DS -2.5 2.3 0.2 2.3 0.15 21
+DS -5.9 4.9 -5.9 9.1 0.15 21
+DS -5.9 9.1 3.9 9.1 0.15 21
+DS 3.9 9.1 3.9 4.3 0.15 21
+DS 3.9 4.3 -5.9 4.3 0.15 21
+DS -5.9 4.3 -5.9 4.8 0.15 21
+DS -6.8 -0.3 7.1 -0.2 0.15 21
+DS -6.8 15.4 -6.8 -0.3 0.15 21
+DS -6.8 15.4 -3.6 15.4 0.15 21
+DS -3.6 15.4 -3.3 15.1 0.15 21
+DS -3.3 15.1 -2.7 15.1 0.15 21
+DS -2.7 15.1 -2.4 15.4 0.15 21
+DS -2.4 15.4 0.6 15.4 0.15 21
+DS 0.6 15.4 0.8 15.1 0.15 21
+DS 0.8 15.1 1.2 15.1 0.15 21
+DS 1.2 15.1 1.5 15.4 0.15 21
+DS 1.5 15.4 7.1 15.4 0.15 21
+DS 7.1 15.4 7.1 -0.2 0.15 21
+$PAD
+Sh "9" R 0.65 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.475 0.3
+$EndPAD
+$PAD
+Sh "9" R 1.1975 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.71375 0.3
+$EndPAD
+$PAD
+Sh "9" R 0.65 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.875 0.3
+$EndPAD
+$PAD
+Sh "9" R 1.3 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.0125 0.3
+$EndPAD
+$PAD
+Sh "8" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.775 12.075
+$EndPAD
+$PAD
+Sh "7" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.775 12.075
+$EndPAD
+$PAD
+Sh "6" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.775 12.075
+$EndPAD
+$PAD
+Sh "5" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.775 12.075
+$EndPAD
+$PAD
+Sh "4" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.775 12.075
+$EndPAD
+$PAD
+Sh "3" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.225 12.075
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.225 12.075
+$EndPAD
+$PAD
+Sh "1" R 0.7 0.75 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.225 12.075
+$EndPAD
+$PAD
+Sh "9" R 0.745 1.15 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.4475 14.775
+$EndPAD
+$PAD
+Sh "9" R 1.04 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.5 14.85
+$EndPAD
+$PAD
+Sh "9" R 0.7 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.275 13.25
+$EndPAD
+$PAD
+Sh "9" R 0.5 4.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.0825 10.25
+$EndPAD
+$PAD
+Sh "9" R 0.7 0.6 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.725 13.25
+$EndPAD
+$EndMODULE Memory_card_microsd_alps
+$EndLIBRARY
